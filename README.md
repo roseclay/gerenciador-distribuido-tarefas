@@ -1,13 +1,11 @@
 # Gerenciador Distribuído de Tarefas (GDT)
 
-Trabalho desenvolvido para a disciplina de Redes de Computadores. A proposta é implementar uma aplicação distribuída no modelo cliente-servidor e definir um protocolo próprio da camada de aplicação.
-
 | Identificação | Informação |
 |---|---|
 | Aluno | Augusto Fagundes Moreira Barros |
-| Disciplina/turma | Redes de Computadores I — 2026.2 (`DEC 0009-8`) |
+| Disciplina/turma | Redes de Computadores I — 2026.2 (`DEC000098`) |
 | Professor | Jorge Lima de Oliveira Filho |
-| Data | 17 de novembro de 2026 |
+| Data | 11 de novembro de 2026 |
 
 ## 1. Sobre o projeto
 
